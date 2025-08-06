@@ -16,6 +16,6 @@ Sou estudante de Engenharia de Computação
  
 <div> 
   <a href="mailto:melvanni22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/melissa-mel-freitas-vanni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/melissa-mel-freitas-vanni?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqiFa8fmLRryF7HIA3b81ow%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
