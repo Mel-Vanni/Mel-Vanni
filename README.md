@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p style="text-align: justify;">
-  Olá! Sou a Mel, estudante de Engenharia de Computação, cursando o 6º período na Universidade Multivix, e Técnica em Edificações pelo SENAI. Minha stack é mais voltada para Front-end, com conhecimentos em JavaScript, HTML e CSS, e também possuo habilidades em Back-end com Java, Python, C++ e R. Atualmente, estou focada em aplicar meus conhecimentos em projetos práticos. Sou motivada, curiosa e proativa, sempre em busca de evoluir academicamente.
+  Olá! Sou a Mel, estudante de Engenharia de Computação, cursando o 7º período na Universidade Multivix, e Técnica em Edificações pelo SENAI. Minha stack é mais voltada para Front-end, com conhecimentos em JavaScript, HTML e CSS, e também possuo habilidades em Back-end com Java, Python, C++ e R. Atualmente, estou focada em aplicar meus conhecimentos em projetos práticos. Sou motivada, curiosa e proativa, sempre em busca de evoluir academicamente.
 </p>
 
 <h3>👩🏻‍💻 Linguagens</h3>
